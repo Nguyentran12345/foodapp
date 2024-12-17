@@ -1,0 +1,12 @@
+Customer Name: Thi
+Phone: 5712654854
+Status: CANCELLED
+---------------------------
+Customer Name: Thanh Do
+Phone: 5712651234
+Status: CANCELLED
+---------------------------
+Customer Name: John Ann
+Phone: 5712561245
+Status: CANCELLED
+---------------------------
